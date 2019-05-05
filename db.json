@@ -222,7 +222,9 @@
       "channelId": "general",
       "userId": 1,
       "body": "awqwdqwqwdq",
-      "enrichedBody": ["awqwdqwqwdq"],
+      "enrichedBody": [
+        "awqwdqwqwdq"
+      ],
       "createdAt": 1555872270175,
       "id": 14
     },
@@ -569,6 +571,102 @@
       "userId": "1",
       "createdAt": 1556683077121,
       "id": 57
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello",
+      "createdAt": 1557068041780,
+      "id": 58
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello",
+      "createdAt": 1557068043269,
+      "id": 59
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello",
+      "createdAt": 1557068046207,
+      "id": 60
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello",
+      "createdAt": 1557068046422,
+      "id": 61
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello",
+      "createdAt": 1557068050800,
+      "id": 62
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello",
+      "createdAt": 1557068051841,
+      "id": 63
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello JS",
+      "createdAt": 1557068106236,
+      "id": 64
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello JS",
+      "createdAt": 1557068417119,
+      "id": 65
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello JS",
+      "createdAt": 1557068530635,
+      "id": 66
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello JS",
+      "createdAt": 1557068569298,
+      "id": 67
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello JS",
+      "createdAt": 1557068586345,
+      "id": 68
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Did it work",
+      "createdAt": 1557068609934,
+      "id": 69
     }
   ]
 }
