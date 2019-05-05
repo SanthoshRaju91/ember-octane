@@ -22,6 +22,6 @@ module('Acceptance | login test', function(hooks) {
       await click((find("input[type='submit']")));
     }
 
-    assert.equal(currentURL(), '/teams')
+    assert.ok(currentURL().startsWith('/teams'));
   });
 });
