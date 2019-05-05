@@ -667,6 +667,22 @@
       "body": "Did it work",
       "createdAt": 1557068609934,
       "id": 69
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Hello JS",
+      "createdAt": 1557069949040,
+      "id": 70
+    },
+    {
+      "teamId": "javascript",
+      "channelId": "funny",
+      "userId": "1",
+      "body": "Did it work",
+      "createdAt": 1557069953017,
+      "id": 71
     }
   ]
 }
