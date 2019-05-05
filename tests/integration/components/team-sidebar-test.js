@@ -13,7 +13,10 @@ module('Integration | Component | team-sidebar', function(hooks) {
     const currentTeam = {
       name: "LinkedIn",
       order: 3,
-      iconUrl: ""
+      iconUrl: "",
+      channels: [{
+        name: "general"
+      }]
     }
     this.set("team", currentTeam);
     await render(hbs`<TeamSidebar @team={{team}}/>`);    
